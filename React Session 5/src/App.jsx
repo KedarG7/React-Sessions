@@ -6,6 +6,7 @@ import Lecture4 from './assets/components/Lecture4/Lecture4'
 import ContextAPIcomponent from './assets/components/Lecture4/contextAPI/contextAPIcomponent'
 import Component1 from './assets/components/Lecture4Practice/Component1'
 import Component2 from './assets/components/Lecture4Practice/Component2'
+import Menucard from './assets/components/Lecture4Practice2/menucard'
 
 function App() {
 
@@ -14,13 +15,15 @@ function App() {
     <>
       {/* <Counter/>
       <div className="page1">
-        <p>Hello</p>
       </div> */}
       {/* <Card/>
       <Lecture2/> */}
       {/* <Lecture4/> */}
       {/* <ContextAPIcomponent/> */}
-      <Component2/>
+      {/* <Component2/> */}
+
+      <Menucard/>
+
     
     </>
   )

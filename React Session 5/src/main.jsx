@@ -12,9 +12,9 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
    {/* <ContextProvider> */}
 
-   <MenuProvider>
+   {/* <MenuProvider> */}
   <App />
-   </MenuProvider>
+   {/* </MenuProvider> */}
 
    
 
